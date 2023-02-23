@@ -1,4 +1,4 @@
-//import "./css/style.css";
+import "./css/style.css";
 import javascriptLogo from "./javascript.svg";
 
 
