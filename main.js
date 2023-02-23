@@ -1,4 +1,4 @@
-import "./css/style.css";
+import "./style.css";
 import "./js/mainMenu";
 import javascriptLogo from "./javascript.svg";
 
@@ -9,7 +9,7 @@ document.querySelector("#app").innerHTML = `
     <body>
     
     <div class="site-mobile-menu site-navbar-target">
-      <div class="site-mobile-menu-header">
+      <div class="site-mobile-menu-header">ls
         <div class="site-mobile-menu-close mt-3">
           <span class="icon-close2 js-menu-toggle"></span>
         </div>

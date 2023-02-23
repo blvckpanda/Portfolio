@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  background-color: #fff;
+  background-color: #23263A;
   height: 200vh;
   position: relative;
 }
@@ -56,12 +56,6 @@ a {
 a,
 a:hover {
   text-decoration: none !important;
-}
-
-.hero {
-  height: 100vh;
-  width: 100%;
-  background: #5d5b6a;
 }
 
 .site-navbar {
