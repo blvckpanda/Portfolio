@@ -1,7 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
 body {
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'Oswald';
   background-color: #23263A;
   height: 200vh;
   position: relative;
@@ -27,7 +27,7 @@ body.offcanvas-menu:before {
 }
 
 p {
-  color: #b3b3b3;
+  color: #fff;
   font-weight: 300;
 }
 
@@ -43,9 +43,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'Oswald';
 }
 
 a {
@@ -69,7 +67,7 @@ a:hover {
 .site-navbar .site-logo {
   position: relative;
   left: 0;
-  font-size: 24px;
+  font-size: 36px;
 }
 .site-navbar .site-navigation .site-menu {
   margin-bottom: 0;
@@ -436,26 +434,26 @@ a:hover {
   color: #fff;
 }
 .sticky-wrapper .site-navbar .site-menu > li > a {
-  color: rgba(255, 255, 255, 0.7) !important;
+  color: #fff !important;
 }
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
   color: #fff !important;
 }
 .sticky-wrapper.is-sticky .site-navbar {
-  background: #fff;
+  background: #121212;
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.1);
   box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.1);
 }
 .sticky-wrapper.is-sticky .site-navbar .site-menu-toggle {
-  color: #000;
+  color: #fff;
 }
 .sticky-wrapper.is-sticky .site-navbar .site-logo a {
-  color: #007bff;
+  color: #fff;
 }
 .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
-  color: #000 !important;
+  color: #fff !important;
 }
 .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active {
