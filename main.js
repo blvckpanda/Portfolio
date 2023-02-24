@@ -41,9 +41,9 @@ document.querySelector("#app").innerHTML = `
                     
                   </ul>
                 </li>            
-                <li><a href="#blog-section" class="nav-link">Blog</a></li>
-                <li><a href="#contact-section" class="nav-link">Contact</a></li>
-                <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-facebook"></span></a></li>
+                <li><a href="#blog-section" class="nav-link">BLOG</a></li>
+                <li><a href="#contact-section" class="nav-link">CONTACT</a></li>
+                <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-github"></span></a></li>
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-twitter"></span></a></li>
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-linkedin"></span></a></li>
               </ul>
