@@ -9,7 +9,7 @@ document.querySelector("#app").innerHTML = `
     <body>
     
     <div class="site-mobile-menu site-navbar-target">
-      <div class="site-mobile-menu-header">ls
+      <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
           <span class="icon-close2 js-menu-toggle"></span>
         </div>
@@ -30,25 +30,15 @@ document.querySelector("#app").innerHTML = `
             <nav class="site-navigation position-relative text-right" role="navigation">
     
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li><a href="#home-section" class="nav-link">HOME</a></li>
                 <li class="has-children">
-                  <a href="#about-section" class="nav-link">About Us</a>
+                  <a href="#about-section" class="nav-link">ABOUT</a>
                   <ul class="dropdown">
-                    <li><a href="#team-section" class="nav-link">Team</a></li>
-                    <li><a href="#pricing-section" class="nav-link">Pricing</a></li>
-                    <li><a href="#faq-section" class="nav-link">FAQ</a></li>
-                    <li><a href="#gallery-section" class="nav-link">Gallery</a></li>
-                    <li><a href="#services-section" class="nav-link">Services</a></li>
+                    <li><a href="#team-section" class="nav-link"></a></li>
+                    <li><a href="#pricing-section" class="nav-link">SKILL-SET</a></li>
+                    <li><a href="#faq-section" class="nav-link">WORK</a></li>
+                    <li><a href="#faq-section" class="nav-link">PROJECTS</a></li>
                     
-                    <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
-                    <li class="has-children">
-                      <a href="#">More Links</a>
-                      <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
-                      </ul>
-                    </li>
                   </ul>
                 </li>            
                 <li><a href="#blog-section" class="nav-link">Blog</a></li>

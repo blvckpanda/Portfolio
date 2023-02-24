@@ -64,6 +64,7 @@ a:hover {
   position: absolute;
   top: 0;
   width: 100%;
+  background:#121212;
 }
 .site-navbar .site-logo {
   position: relative;
