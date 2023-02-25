@@ -1,13 +1,10 @@
 import "./style.css";
+import "./darkMode.css";
 import "./js/mainMenu";
 import javascriptLogo from "./javascript.svg";
 
-
 document.querySelector("#app").innerHTML = `
-  <div>
-  
-    <body>
-    
+  <div>   
     <div class="site-mobile-menu site-navbar-target">
       <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
@@ -46,6 +43,7 @@ document.querySelector("#app").innerHTML = `
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-github"></span></a></li>
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-twitter"></span></a></li>
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-linkedin"></span></a></li>
+                
               </ul>
             </nav>
           </div>
@@ -59,5 +57,3 @@ document.querySelector("#app").innerHTML = `
   </div>
   
 `;
-
-
