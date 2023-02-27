@@ -20,15 +20,30 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="style.css">
+  <link
+      href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
 
   <title>Developer Jack</title>
 </head>
 <body id="app">
+  <div class="light">
+    <input type="checkbox" id="toggle" />
+    
+        <label class="toggle" for="toggle">
+          <i class="bx bxs-sun"></i>
+          <i class="bx bx-moon"></i>
+          <span class="ball"></span>
+        </label>
+    </div>
   <script type="module" src="/main.js"></script>
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/jquery.sticky.js"></script>
+  <script src="js/darkMode.js"></script>
 </body>
 
 </html>
