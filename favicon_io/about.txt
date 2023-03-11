@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Noto Sans Old North Arabian
-- Font Author: Copyright 2018 Google LLC. All Rights Reserved.
-- Font Source: http://fonts.gstatic.com/s/notosansoldnortharabian/v15/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBQmUo_xw4ABw.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
